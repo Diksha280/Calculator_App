@@ -1,6 +1,5 @@
 import 'package:calculator_app/provider/cal_provider.dart';
 import 'package:calculator_app/screens/home_screen.dart';
-import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 
